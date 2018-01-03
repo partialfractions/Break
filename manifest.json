@@ -1,0 +1,14 @@
+{
+  "name": "Break",
+  "description": "Sends a rich notification with an exercise prompt",
+  "version": "1.0",
+  "manifest_version": 2,
+  "permissions": ["notifications"],
+  "browser_action": {
+    "default_title": "Break",
+    "default_popup": "popup.html"
+  },
+  "background": {
+    "scripts": ["background.js"]
+  }
+}
