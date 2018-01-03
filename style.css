@@ -1,0 +1,17 @@
+body {
+  width: 200px;
+  margin: 20px;
+  font: 84% Arial, sans-serif
+}
+h1 {
+  font-size: 150%;
+  color: #EC7063; }
+h1 img {
+  vertical-align: middle;
+}
+h2 {
+  color: #ffffff;
+  background-color: #EC7063;
+  padding: 3px 5px;
+  font-size: 100%
+}
