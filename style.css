@@ -5,9 +5,8 @@ body {
 }
 h1 {
   font-size: 150%;
-  color: #EC7063; }
-h1 img {
-  vertical-align: middle;
+  color: #EC7063; 
+  text-align: center;
 }
 h2 {
   color: #ffffff;
